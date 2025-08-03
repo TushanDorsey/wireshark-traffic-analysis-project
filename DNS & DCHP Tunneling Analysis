@@ -35,3 +35,12 @@ This capture simulates DNS tunneling using `iodine`. Traffic shows abnormally lo
 - Step 5. Use iodine to simmulate DNS tunneling to 'tunnel.testdomain'.
 ![image]
 
+## DNS Tunneling Detection
+
+Captured a simulation of DNS tunneling using `iodine` on Kali Linux. Used Wireshark to identify suspicious patterns such as long DNS queries, base64 payloads, and TXT record abuse.
+
+**Skills Highlighted:**
+- DNS protocol analysis
+- Use of open-source tools (iodine, Wireshark)
+- Network traffic investigation
+
